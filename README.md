@@ -18,7 +18,7 @@ I analyzed Spotify data from 1921-2020, and examined the following questions rel
 
 1. How does song loudness affect popularity?
 2. How does song loudness change over the years?
-3. How loud are various genres?
+3. How loud are various music genres?
 
 ## File Descriptions <a name="files"></a>
 
